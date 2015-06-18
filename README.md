@@ -16,6 +16,9 @@ If only Immanual Kant were here to see this -->  A critique of pure A.I. reason 
 ##Resources
 - [Inceptionism photo gallery]
 - [Inceptionism - Google Research Blog] - Going Deeper into Neural Networks
+- [Intro to Kant's Critique of Pure Reason] - synthetic unity of apperception 
+- [2015 Conference on Computer Vision and Pattern Recognition] - (CVPR 2015)
+- [Google Computer Vision Research at CVPR 2015]
 
 ##Papers
 - [Going Deeper with Convolutions]
@@ -35,3 +38,6 @@ ____________________________________
 [Inverting Convolutional Networks with Convolutional Networks]:http://arxiv.org/pdf/1506.02753.pdf
 [Understanding Deep Image Representations by Inverting Them]:http://arxiv.org/pdf/1412.0035v1.pdf
 [Deep Neural Networks are Easily Fooled]:http://arxiv.org/pdf/1412.1897v4.pdf
+[Intro to Kant's Critique of Pure Reason]:https://youtu.be/1s5PtRdpl6A
+[2015 Conference on Computer Vision and Pattern Recognition]:http://www.pamitc.org/cvpr15/
+[Google Computer Vision Research at CVPR 2015]:http://googleresearch.blogspot.com/2015/06/google-computer-vision-research-at-cvpr.html
