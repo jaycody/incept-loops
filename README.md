@@ -23,6 +23,7 @@ If only Immanual Kant were here to see this -->  A critique of pure A.I. reason 
 - [Deep Inside Convolutional Networks: Visualizing IMage Classification Models and Saliency Maps] - the visualisation of image classification models
 - [Inverting Convolutional Networks with Convolutional Networks] - a new approach to study deep image representations by inverting them with an up-convolutional neural network.
 - [Understanding Deep Image Representations by Inverting Them] - given an encoding of an image, to which extent is it possible to reconstruct the image itself?
+- [Deep Neural Networks are Easily Fooled] - High confidence predictions for unrecognizable images
 
 
 ____________________________________
@@ -33,3 +34,4 @@ ____________________________________
 [Deep Inside Convolutional Networks: Visualizing IMage Classification Models and Saliency Maps]:http://arxiv.org/pdf/1312.6034v2.pdf
 [Inverting Convolutional Networks with Convolutional Networks]:http://arxiv.org/pdf/1506.02753.pdf
 [Understanding Deep Image Representations by Inverting Them]:http://arxiv.org/pdf/1412.0035v1.pdf
+[Deep Neural Networks are Easily Fooled]:http://arxiv.org/pdf/1412.1897v4.pdf
