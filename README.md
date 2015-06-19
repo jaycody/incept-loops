@@ -20,6 +20,9 @@ If only Immanual Kant were here to see this -->  A critique of pure A.I. reason 
 - [2015 Conference on Computer Vision and Pattern Recognition] - (CVPR 2015)
 - [Google Computer Vision Research at CVPR 2015]
 
+##Articles
+- [Yes, androids do dream of electric sheep] - Inceptionism article in The Guardian
+
 ##Papers
 - [Going Deeper with Convolutions]
      - We propose a deep convolutional neural network architecture codenamed Incep- tion, which was responsible for setting the new state of the art for classification and detection
@@ -41,3 +44,4 @@ ____________________________________
 [Intro to Kant's Critique of Pure Reason]:https://youtu.be/1s5PtRdpl6A
 [2015 Conference on Computer Vision and Pattern Recognition]:http://www.pamitc.org/cvpr15/
 [Google Computer Vision Research at CVPR 2015]:http://googleresearch.blogspot.com/2015/06/google-computer-vision-research-at-cvpr.html
+[Yes, androids do dream of electric sheep]:http://www.theguardian.com/technology/2015/jun/18/google-image-recognition-neural-network-androids-dream-electric-sheep
